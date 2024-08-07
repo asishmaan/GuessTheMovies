@@ -1,112 +1,112 @@
 const movies = [
     {
         title: 'inception',
-        poster: 'images/Inception.webp',
+        poster: 'Images/Inception.webp',
         hint: 'A mind-bending thriller directed by Christopher Nolan.',
         director: 'Christopher Nolan',
         options: ['Inception', 'Avatar', 'Titanic', 'The Matrix']
     },
     {
         title: 'avatar',
-        poster: 'images/Avatar.webp',
+        poster: 'Images/Avatar.webp',
         hint: 'A sci-fi epic set on the planet Pandora.',
         director: 'James Cameron',
         options: ['Avatar', 'Interstellar', 'Inception', 'Star Wars']
     },
     {
         title: 'titanic',
-        poster: 'images/Titanic.jpg',
+        poster: 'Images/Titanic.jpg',
         hint: 'A romance that takes place on a doomed ocean liner.',
         director: 'James Cameron',
         options: ['Titanic', 'Casablanca', 'The Godfather', 'Gone with the Wind']
     },
     {
         title: 'the godfather',
-        poster: 'images/TheGodfather.webp',
+        poster: 'Images/TheGodfather.webp',
         hint: 'A classic crime drama directed by Francis Ford Coppola.',
         director: 'Francis Ford Coppola',
         options: ['The Godfather', 'Pulp Fiction', 'Goodfellas', 'Scarface']
     },
     {
         title: 'interstellar',
-        poster: 'images/Interstellar.webp',
+        poster: 'Images/Interstellar.webp',
         hint: 'A space exploration film directed by Christopher Nolan.',
         director: 'Christopher Nolan',
         options: ['Interstellar', 'Gravity', 'Arrival', '2001: A Space Odyssey']
     },
     {
         title: 'the dark knight',
-        poster: 'images/TheDarkKnight.jpg',
+        poster: 'Images/TheDarkKnight.jpg',
         hint: 'A superhero film featuring Batman, directed by Christopher Nolan.',
         director: 'Christopher Nolan',
         options: ['The Dark Knight', 'The Avengers', 'Spider-Man', 'Iron Man']
     },
     {
         title: 'casablanca',
-        poster: 'images/Casablanca.webp',
+        poster: 'Images/Casablanca.webp',
         hint: 'A romantic drama set during World War II.',
         director: 'Michael Curtiz',
         options: ['Casablanca', 'Gone with the Wind', 'The Maltese Falcon', 'Citizen Kane']
     },
     {
         title: 'pulp fiction',
-        poster: 'images/PulpFiction.webp',
+        poster: 'Images/PulpFiction.webp',
         hint: 'A nonlinear crime film directed by Quentin Tarantino.',
         director: 'Quentin Tarantino',
         options: ['Pulp Fiction', 'Reservoir Dogs', 'Fight Club', 'The Big Lebowski']
     },
     {
         title: 'the matrix',
-        poster: 'images/TheMatrix.jpg',
+        poster: 'Images/TheMatrix.jpg',
         hint: 'A science fiction film that questions reality.',
         director: 'The Wachowskis',
         options: ['The Matrix', 'Inception', 'Dark City', 'Total Recall']
     },
     {
         title: 'star wars',
-        poster: 'images/StarWars.jpg',
+        poster: 'Images/StarWars.jpg',
         hint: 'A space opera franchise created by George Lucas.',
         director: 'George Lucas',
         options: ['Star Wars', 'Star Trek', 'Battlestar Galactica', 'Dune']
     },
     {
         title: 'fight club',
-        poster: 'images/FightClub.webp',
+        poster: 'Images/FightClub.webp',
         hint: 'A psychological drama about a secret club.',
         director: 'David Fincher',
         options: ['Fight Club', 'American Psycho', 'Se7en', 'The Usual Suspects']
     },
     {
         title: 'the shawshank redemption',
-        poster: 'images/TheShawshankRedemption.png',
+        poster: 'Images/TheShawshankRedemption.png',
         hint: 'A film about friendship and hope in prison.',
         director: 'Frank Darabont',
         options: ['The Shawshank Redemption', 'Forrest Gump', 'The Green Mile', 'The Departed']
     },
     {
         title: 'forrest gump',
-        poster: 'images/ForrestGump.jpg',
+        poster: 'Images/ForrestGump.jpg',
         hint: 'A story of a man with a low IQ who accomplishes great things.',
         director: 'Robert Zemeckis',
         options: ['Forrest Gump', 'Cast Away', 'The Terminal', 'A Beautiful Mind']
     },
     {
         title: 'gladiator',
-        poster: 'images/Gladiator.webp',
+        poster: 'Images/Gladiator.webp',
         hint: 'A historical epic about a betrayed Roman general.',
         director: 'Ridley Scott',
         options: ['Gladiator', 'Troy', '300', 'Kingdom of Heaven']
     },
     {
         title: 'jurassic park',
-        poster: 'images/JurassicPark.jpg',
+        poster: 'Images/JurassicPark.jpg',
         hint: 'A film about dinosaurs brought back to life.',
         director: 'Steven Spielberg',
         options: ['Jurassic Park', 'King Kong', 'The Lost World', 'Godzilla']
     },
     {
         title: 'jaws',
-        poster: 'images/Jaws.jpg',
+        poster: 'Images/Jaws.jpg',
         hint: 'A thriller about a giant shark terrorizing a beach town.',
         director: 'Steven Spielberg',
         options: ['Jaws', 'Deep Blue Sea', 'The Meg', 'Piranha']
